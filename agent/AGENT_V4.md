@@ -106,7 +106,7 @@
 | 16 | 2D аніме cel-shading | чіткі тіні, великі блискучі очі | ★★★ |
 | 17 | Акварельна книжкова ілюстрація | м'які розводи, папір | ★ |
 | 18 | Комікс-гібрид 3D + півтон | точки-растр, контур, «друкарські» кольори | ★★ |
-| 19 | Готичний stop-motion | тонкі довгі кінцівки, темні очиці | ★★ |
+| 19 | Готичний stop-motion | тонкі довгі кінцівки, темні очниці | ★★ |
 | 20 | Хромований метал / робот-іграшка | віддзеркалення, заклепки | ★★ |
 | 21 | Неонові лінії на темному | світні контури | ★ |
 | 22 | Крейда / пастель | зернистість | ★ |
@@ -161,7 +161,7 @@ Prioritize EXACTLY twenty clearly different styles and the species lock above al
 ```
 Generate ONE portrait 3:4 casting sheet with EXACTLY 20 original designs for [CHARACTER TYPE], arranged in an exact 4-column × 5-row grid of equal-size cells. One complete isolated full-body character per cell, same three-quarter view, same visual scale, lighting and background. One small clear index number 01–20 in the upper left of each cell, in reading order. No title, captions, logos or other text. No scenes, props, extra angles or second views. Whole silhouettes with breathing room, no limbs crossing cells.
 Species lock: every design is unmistakably a [SPECIES], NOT a [ANTI 1], NOT a [ANTI 2]. Every design keeps: [4–6 SPECIES ANCHORS]. Shape donors affect silhouette only, never anatomy.
-Shared style: [STYLE MODULE BLOCK].
+Shared style: [STYLE ANCHOR]. Mood: [MOOD BLOCK].
 Each design has a clearly different silhouette, head geometry, body mass, feet scale, [tail / ears / hands] geometry, eye design and color blocking (not recolors). Distinct personalities at a glance. Keep detail readable on a phone.
 Specific grid, left to right, row by row:
 ROW 1 — 01 [COLOR + IMAGE NAME]: [dominant shape], [proportions], [head/crest], [eyes and expression], [feet], [tail], [palette]; 02 …; 03 …; 04 …
